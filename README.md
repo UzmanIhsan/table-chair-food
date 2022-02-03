@@ -18,7 +18,7 @@
 
 
 
-<h2>Basic info</h2>
+<h2>Basic infomation</h2>
 <p>How to pronounce <a href="https://www.howtopronounce.com/acinonyx-jubatus">Acinonyx jubatus</a>.</p>
         <p>Learn more on <a href="https://en.wikipedia.org/wiki/Cheetah">Wikipedia</a>.</p>
 <p>Cheetahs (Acinonyx jubatus) are a kind of large cat native to Africa.Around it's eyes it has black tear-like facial streaks which absorbs the sun's light it also has a subspecies that is native to Iran which is called the King Cheetah. It is the fastest land animal it's top speed is 70mph <br>
