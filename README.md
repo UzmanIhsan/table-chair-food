@@ -25,7 +25,7 @@ it's top time to run is 45 seconds
 </p>
     "<img src = "https://upload.wikimedia.org/wikipedia/commons/8/81/Cheetah_genetic_diversity.jpg"width="200"> 
 <h2 id = "poem">Poem</h2>        
- <p id = "poem">I'm a spotty cheetah and I like to run. <br>I cannot run for long 45 seconds is my time,<br> to run as long as I can <br>
+ <p id = "poem">I'm a spotty cheetah and I like to run 60 miles per hour. <br>I cannot run for long 45 seconds is my time,<br> to run as long as I can <br>
 
  my last thing to tell<br>
  is that I like to eat thompsons gazzelle
