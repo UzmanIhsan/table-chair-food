@@ -3,8 +3,7 @@
     <head>
         <meta charset="utf-8">
         
-    </head>
-    <body>
+
 <h1>All About Cheetahs</h1>
 <h5>by Uzman Ihsan</h5>
 
